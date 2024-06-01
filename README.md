@@ -8,7 +8,7 @@ All source in "factorials/src/":
 
 | File       | Content                         |
 | -----------| ------------------------------- |
-| main.rs    | Driver, command line interface  |
+| main.rs    | Solution and driver             |
 
 ## fibonacci
 
@@ -16,5 +16,5 @@ All source in "fibonacci/src/":
 
 | File       | Content                         |
 | -----------| ------------------------------- |
-| main.rs    | Driver, command line interface  |
+| main.rs    | Solution and driver             |
 
