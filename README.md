@@ -10,3 +10,11 @@ All source in "factorials/src/":
 | -----------| ------------------------------- |
 | main.rs    | Driver, command line interface  |
 
+## fibonacci
+
+All source in "fibonacci/src/":
+
+| File       | Content                         |
+| -----------| ------------------------------- |
+| main.rs    | Driver, command line interface  |
+
