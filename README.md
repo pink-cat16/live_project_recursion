@@ -10,9 +10,17 @@ All source in "factorials/src/":
 | -----------| ------------------------------- |
 | main.rs    | Solution and driver             |
 
-## fibonacci
+## Recursive Fibonacci
 
 All source in "fibonacci/src/":
+
+| File       | Content                         |
+| -----------| ------------------------------- |
+| main.rs    | Solution and driver             |
+
+## Dynamic Fibonacci
+
+All source in "dynamic_fibonacci/src/":
 
 | File       | Content                         |
 | -----------| ------------------------------- |
