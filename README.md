@@ -26,3 +26,11 @@ All source in "dynamic_fibonacci/src/":
 | -----------| ------------------------------- |
 | main.rs    | Solution and driver             |
 
+## Knight's Tour
+
+All source in "knights_tour/src/":
+
+| File       | Content                         |
+| -----------| ------------------------------- |
+| main.rs    | Solution and driver             |
+
